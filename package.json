@@ -1,0 +1,22 @@
+{
+    "name": "Silent Death",
+    "version": "2.0",
+    "description": "@YamzzOffc",
+    "main": "SilentDeath.js",
+    "scripts": {
+        "start": "node SilentDeath.js"
+    },
+    "dependencies": {
+        "@octokit/rest": "latest",
+        "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys-old",
+        "axios": "^1.6.0",
+        "body-parser": "^1.20.3",
+        "chalk": "^4.1.2",
+        "crypto": "latest",
+        "fs": "latest",
+        "moment-timezone": "latest",
+        "pino": "^9.5.0",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3"
+    }
+}
